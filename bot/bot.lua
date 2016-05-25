@@ -259,7 +259,7 @@ function create_config( )
     "inAdmin"
 
     },
-    sudo_users = {56693692},--Sudo users
+    sudo_users = {132855224},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
@@ -591,3 +591,4 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
+inAdmin
